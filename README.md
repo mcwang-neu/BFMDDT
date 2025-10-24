@@ -27,6 +27,8 @@ python Timeseries.py
 
 ## Citation
 
+Feel free to contact me at mingcan\_wl@163.com. You are encouraged to cite our work, if you find it useful. 
+
 ~~~
 @ARTICLE{BFMDDT,
   author={Wang, Mingcan and Wang, Zhiqiong and Qu, Luxuan and Long, Kaifu and Xin, Junchang},
