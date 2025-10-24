@@ -1,12 +1,30 @@
 # Official Implementation of BFMDDT, a Novel GRN Inference from Myltiple types of dataset Based on Decision Tree Model
 
 ## To run
-Install the need packages, as
+Install the needed packages, as
 
 ~~~
 pip install -r requirement.txt
 ~~~
  
+Run 'SS_TS.py'
+~~~
+python SS_TS.py
+~~~
+
+## Your dataset your way
+
+### Multitype Datasets
+In the example, a GRN is reconstructed bases on 'Ecoli-80_knockouts[0].tsv' and 'Ecoli-80_timeseries[0].tsv'. You can shape your own dataset as them to reconstruct GRNs based on your own datasets. 
+
+### Single Type Datasets
+BFMDDT can also reconstruct GRN from single type of dataset, as 'Steady.py' and 'Timeseries.py' demonstrates. 
+~~~
+python Steady.py
+python Timeseries.py
+~~~
+
+
 ## Citation
 
 ~~~
