@@ -1,4 +1,4 @@
-# Official Implementation of BFMDDT, a Novel GRN Inference from Myltiple types of dataset Based on Decision Tree Model
+# Official Implementation of BFMDDT, a Novel GRN Inference from Multiple types of dataset Based on Decision Tree Model
 
 ## To run
 Install the needed packages, as
